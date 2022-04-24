@@ -1,0 +1,117 @@
+﻿Study whole frame test started: 23-04-2022, 16:31:15
+Number of configurations: 1
+Default mesh: 230956 elements, 437357 nodes
+Mesh at contact 1 is too coarse
+Mesh at contact 2 is too coarse
+Mesh at contact 3 is too coarse
+Mesh at contact 4 is too coarse
+Mesh at contact 5 is too coarse
+Mesh at contact 6 is too coarse
+Mesh at contact 7 is too coarse
+Mesh at contact 8 is too coarse
+Mesh at contact 15 is too coarse
+Mesh at contact 16 is too coarse
+Mesh at contact 22 is too coarse
+Mesh at contact 25 is too coarse
+Mesh at contact 31 is too coarse
+Mesh at contact 37 is too coarse
+Mesh at contact 44 is too coarse
+Mesh at contact 45 is too coarse
+Mesh at contact 46 is too coarse
+Mesh at contact 53 is too coarse
+Mesh at contact 54 is too coarse
+Mesh at contact 62 is too coarse
+Mesh at contact 63 is too coarse
+Mesh at contact 74 is too coarse
+Mesh at contact 86 is too coarse
+Mesh at contact 126 is too coarse
+Mesh at contact 133 is too coarse
+Mesh at contact 136 is too coarse
+Mesh at contact 149 is too coarse
+A model separates into 5 independent components
+Soft spring was added
+Soft spring was added
+Solution time 37.2s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  1  on element 1 finished: 23-04-2022, 16:34:00
+Total time 0:02:45
+
+Study whole frame test no handlebar started: 23-04-2022, 16:39:15
+Number of configurations: 1
+Default mesh: 230315 elements, 436195 nodes
+Mesh at contact 1 is too coarse
+Mesh at contact 2 is too coarse
+Mesh at contact 3 is too coarse
+Mesh at contact 4 is too coarse
+Mesh at contact 5 is too coarse
+Mesh at contact 6 is too coarse
+Mesh at contact 7 is too coarse
+Mesh at contact 8 is too coarse
+Mesh at contact 15 is too coarse
+Mesh at contact 16 is too coarse
+Mesh at contact 22 is too coarse
+Mesh at contact 25 is too coarse
+Mesh at contact 31 is too coarse
+Mesh at contact 37 is too coarse
+Mesh at contact 44 is too coarse
+Mesh at contact 45 is too coarse
+Mesh at contact 46 is too coarse
+Mesh at contact 53 is too coarse
+Mesh at contact 54 is too coarse
+Mesh at contact 62 is too coarse
+Mesh at contact 63 is too coarse
+Mesh at contact 74 is too coarse
+Mesh at contact 86 is too coarse
+Mesh at contact 126 is too coarse
+Mesh at contact 133 is too coarse
+Mesh at contact 136 is too coarse
+Mesh at contact 149 is too coarse
+A model separates into 5 independent components
+Soft spring was added
+Soft spring was added
+Solution time 70s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  1  on element 1 finished: 23-04-2022, 16:42:30
+Total time 0:03:15
+
+Study whole frame test no handlebar started: 23-04-2022, 16:44:31
+Number of configurations: 1
+Default mesh: 230315 elements, 436195 nodes
+Mesh at contact 1 is too coarse
+Mesh at contact 2 is too coarse
+Mesh at contact 3 is too coarse
+Mesh at contact 4 is too coarse
+Mesh at contact 5 is too coarse
+Mesh at contact 6 is too coarse
+Mesh at contact 7 is too coarse
+Mesh at contact 8 is too coarse
+Mesh at contact 15 is too coarse
+Mesh at contact 16 is too coarse
+Mesh at contact 22 is too coarse
+Mesh at contact 25 is too coarse
+Mesh at contact 31 is too coarse
+Mesh at contact 37 is too coarse
+Mesh at contact 44 is too coarse
+Mesh at contact 45 is too coarse
+Mesh at contact 46 is too coarse
+Mesh at contact 53 is too coarse
+Mesh at contact 54 is too coarse
+Mesh at contact 62 is too coarse
+Mesh at contact 63 is too coarse
+Mesh at contact 74 is too coarse
+Mesh at contact 86 is too coarse
+Mesh at contact 126 is too coarse
+Mesh at contact 133 is too coarse
+Mesh at contact 136 is too coarse
+Mesh at contact 149 is too coarse
+A model separates into 5 independent components
+Soft spring was added
+Soft spring was added
+Solution time 64.6s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study whole frame test no handlebar finished: 23-04-2022, 16:45:53
+Total time 0:01:22
+

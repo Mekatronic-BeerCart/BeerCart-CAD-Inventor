@@ -1,0 +1,45 @@
+﻿Study BATTERY MOUNT started: 23-04-2022, 14:33:18
+Number of configurations: 1
+Default mesh: 10195 elements, 17767 nodes
+Solution time 1.3s
+Convergence rate: 13%
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  2.58  on element 1227 finished: 23-04-2022, 14:33:23
+Total time 0:00:05
+
+Study battery mount no support channel started: 23-04-2022, 14:35:15
+Number of configurations: 1
+Default mesh: 6729 elements, 11848 nodes
+Solution time 1.1s
+Convergence rate: 22%
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  2.56  on element 3919 finished: 23-04-2022, 14:35:18
+Total time 0:00:03
+
+Study Shape Generator:1 started: 23-04-2022, 14:44:29
+Number of configurations: 1
+Default mesh: 53273 elements, 82926 nodes
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  2.41  on element 39500 finished: 23-04-2022, 14:46:47
+Total time 0:02:18
+
+Study Shape Generator:1 started: 23-04-2022, 14:51:03
+Number of configurations: 1
+Default mesh: 1126534 elements, 1602889 nodes
+Study        Worst Jacobian ratio :  1.96  on element 73577 finished: 23-04-2022, 15:20:16
+Total time 0:29:13
+
+Study Shape Generator:1 started: 23-04-2022, 15:23:26
+Number of configurations: 1
+Default mesh: 86467 elements, 131781 nodes
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  2.25  on element 1030 finished: 23-04-2022, 15:27:01
+Total time 0:03:35
+
+Study Shape Generator:1 started: 23-04-2022, 15:32:06
+Number of configurations: 1
+Default mesh: 80634 elements, 123356 nodes
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  2.19  on element 70302 finished: 23-04-2022, 15:35:22
+Total time 0:03:16
+
